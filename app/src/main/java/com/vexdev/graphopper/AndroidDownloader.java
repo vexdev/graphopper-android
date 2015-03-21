@@ -1,4 +1,4 @@
-package com.graphhopper.android;
+package com.vexdev.graphopper;
 
 import com.graphhopper.util.Downloader;
 import com.graphhopper.util.Helper;

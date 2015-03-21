@@ -1,4 +1,4 @@
-package com.graphhopper.android;
+package com.vexdev.graphopper;
 
 import android.os.AsyncTask;
 
